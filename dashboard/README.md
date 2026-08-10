@@ -1,5 +1,5 @@
 # Power BI Dashboard
-# Author: Devangi Parekh
+# Developed by Devangi Parekh | 2026 | Portfolio Project
 
 This folder contains the Power BI report developed for the Alberta Postsecondary Enrolment Analytics project.
 
