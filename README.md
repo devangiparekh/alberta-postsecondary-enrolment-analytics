@@ -67,3 +67,19 @@ Examines potential drivers of future postsecondary demand through:
 ### Dashboard Preview
 
 ![Drivers and Future Outlook](drivers-future-outlook.png)
+
+## Key Insights
+
+### 1. International enrolment has been a major driver of recent growth
+Alberta's postsecondary enrolment has grown over the analysis period, but international enrolment has increased substantially faster than Canadian enrolment. By 2023/24, international students represented approximately 17.2% of total enrolment, highlighting the increasing importance of international students to overall sector growth.
+
+### 2. Enrolment growth has outpaced the domestic demographic pipeline
+When enrolment and Alberta's prospective age-18 population are indexed to a common baseline, international enrolment rises much more rapidly than the demographic indicator. This suggests that recent enrolment growth cannot be explained by Alberta's traditional college-age population alone.
+
+### 3. Alberta's demographic pipeline strengthens before moderating
+The prospective age-18 population indicator strengthens into the early 2030s before moderating later in the decade. This could provide some demographic support for domestic postsecondary demand in the medium term, but demographic growth alone may not sustain the recent pace of overall enrolment growth.
+
+### 4. International-student conditions introduce near-term uncertainty
+National international postsecondary indicators show strong growth through 2023/24 followed by a pronounced slowdown in the subsequent estimated years. Because Alberta's recent enrolment growth has become increasingly associated with international students, changes in international-student conditions could create greater near-term enrolment uncertainty.
+
+> **Note:** National figures for 2024/25 and 2025/26 are estimates rather than observed values.
