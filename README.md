@@ -154,3 +154,48 @@ The demographic pipeline represents an approximate age-18 population indicator a
 International-student conditions are influenced by policy, visa issuance, institutional behaviour, labour-market conditions, and other factors outside the scope of this dashboard.
 
 Values identified as estimates should not be interpreted as observed enrolment counts.
+
+
+
+## Source References
+
+The analysis uses publicly available data and research from official statistical and postsecondary sources.
+
+### Postsecondary Enrolment Data
+
+**Statistics Canada – Postsecondary Student Information System (PSIS)**  
+Used for postsecondary enrolment analysis, including institution-level and student-status trends.
+
+Statistics Canada Table 37-10-0277-01:  
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710027701
+
+### Birth & Demographic Data
+
+**Statistics Canada – Canadian Vital Statistics, Birth Database (CVSB)**  
+Historical birth counts for Canada and Alberta were used to construct the approximate age-18 demographic pipeline.
+
+https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getInstanceList&Id=1324420
+
+Birth cohorts were shifted approximately 18 years forward for analytical comparison with postsecondary enrolment. This is a demographic indicator rather than an enrolment forecast.
+
+### International Student Context
+
+**Statistics Canada – Postsecondary Student Information System (PSIS)**  
+National international-student data were used to provide context for recent changes in Canadian postsecondary enrolment.
+
+Observed values: 2019/20–2023/24  
+Estimated values: 2024/25–2025/26
+
+### Supporting Statistics Canada Research
+
+The following Statistics Canada research publications were reviewed to provide broader context around postsecondary education, labour-market conditions and changing student demand:
+
+https://www150.statcan.gc.ca/n1/pub/36-28-0001/2026001/article/00001-eng.htm
+
+https://www150.statcan.gc.ca/n1/pub/36-28-0001/2025004/article/00002-eng.htm
+
+## Data Interpretation Note
+
+External indicators are used to provide context for Alberta's enrolment trends. Relationships shown in this project should not be interpreted as proof of causation.
+
+Estimated values are explicitly identified, and the demographic pipeline is intended as a contextual indicator rather than a formal forecast.
