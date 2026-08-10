@@ -1,5 +1,5 @@
 # Alberta Postsecondary Enrolment Analytics
-# Author: Devangi Parekh
+#Developed by Devangi Parekh | 2026 | Portfolio Project
 ## Project Overview
 
 This Power BI project explores Alberta's postsecondary enrolment landscape and the factors that may influence future enrolment demand.
