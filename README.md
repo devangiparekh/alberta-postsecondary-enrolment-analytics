@@ -50,6 +50,10 @@ Provides an interactive overview of Alberta's postsecondary sector, including:
 - Top Alberta institutions by enrolment
 - Enrolment growth compared with the age-18 demographic pipeline
 
+### Dashboard Preview
+
+![Alberta Postsecondary Enrolment Overview](alberta-enrolment-overview.png)
+
 ### 2. Drivers & Future Outlook
 
 Examines potential drivers of future postsecondary demand through:
@@ -59,3 +63,7 @@ Examines potential drivers of future postsecondary demand through:
 - National international-student enrolment trends
 - Comparison of demographic, Canadian enrolment, and international enrolment growth
 - Analytical interpretation of future enrolment conditions
+
+### Dashboard Preview
+
+![Drivers and Future Outlook](drivers-future-outlook.png)
