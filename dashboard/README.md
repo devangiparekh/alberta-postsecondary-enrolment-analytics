@@ -8,4 +8,4 @@ The report consists of two analytical pages:
 ![Alberta Postsecondary Enrolment Overview](alberta-enrolment-overview.png)
 
 2. **Drivers & Future Outlook** — demographic pipeline, Canadian birth-cohort trends, international-student context, and potential drivers of future Alberta postsecondary enrolment.
-![Drivers and Future Outlook](dashboard/drivers-future-outlook.png)
+![Drivers and Future Outlook](drivers-future-outlook.png)
