@@ -1,0 +1,781 @@
+Institution_Raw,Institution,Institution_Standardized,Academic_Year,Enrolment,Student_Status,Province,Record_Type,Academic_Year_Start,Academic_Year_End
+Alberta 11,Alberta,Alberta,2014/2015,184026.0,Total,Alberta,Province Total,2014,2015
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2014/2015,38520.0,Total,Alberta,Institution,2014,2015
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2014/2015,17577.0,Total,Alberta,Institution,2014,2015
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2014/2015,31308.0,Total,Alberta,Institution,2014,2015
+"Burman University, Alberta",Burman University,Burman University,2014/2015,474.0,Total,Alberta,Institution,2014,2015
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2014/2015,1506.0,Total,Alberta,Institution,2014,2015
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2014/2015,8157.0,Total,Alberta,Institution,2014,2015
+"The King's University, Alberta",The King's University,The King's University,2014/2015,702.0,Total,Alberta,Institution,2014,2015
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2014/2015,732.0,Total,Alberta,Institution,2014,2015
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2014/2015,519.0,Total,Alberta,Institution,2014,2015
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2014/2015,15870.0,Total,Alberta,Institution,2014,2015
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2014/2015,12372.0,Total,Alberta,Institution,2014,2015
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2014/2015,1116.0,Total,Alberta,Institution,2014,2015
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2014/2015,6891.0,Total,Alberta,Institution,2014,2015
+"Olds College, Alberta",Olds College,Olds College,2014/2015,1371.0,Total,Alberta,Institution,2014,2015
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2014/2015,1959.0,Total,Alberta,Institution,2014,2015
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2014/2015,1995.0,Total,Alberta,Institution,2014,2015
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2014/2015,4413.0,Total,Alberta,Institution,2014,2015
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2014/2015,2271.0,Total,Alberta,Institution,2014,2015
+"Keyano College, Alberta",Keyano College,Keyano College,2014/2015,1434.0,Total,Alberta,Institution,2014,2015
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2014/2015,3345.0,Total,Alberta,Institution,2014,2015
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2014/2015,10833.0,Total,Alberta,Institution,2014,2015
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2014/2015,14307.0,Total,Alberta,Institution,2014,2015
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2014/2015,4212.0,Total,Alberta,Institution,2014,2015
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2014/2015,1389.0,Total,Alberta,Institution,2014,2015
+"Portage College, Alberta",Portage College,Portage College,2014/2015,759.0,Total,Alberta,Institution,2014,2015
+Alberta 11,Alberta,Alberta,2015/2016,185679.0,Total,Alberta,Province Total,2015,2016
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2015/2016,37716.0,Total,Alberta,Institution,2015,2016
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2015/2016,17331.0,Total,Alberta,Institution,2015,2016
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2015/2016,31749.0,Total,Alberta,Institution,2015,2016
+"Burman University, Alberta",Burman University,Burman University,2015/2016,471.0,Total,Alberta,Institution,2015,2016
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2015/2016,1686.0,Total,Alberta,Institution,2015,2016
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2015/2016,8406.0,Total,Alberta,Institution,2015,2016
+"The King's University, Alberta",The King's University,The King's University,2015/2016,765.0,Total,Alberta,Institution,2015,2016
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2015/2016,771.0,Total,Alberta,Institution,2015,2016
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2015/2016,576.0,Total,Alberta,Institution,2015,2016
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2015/2016,15951.0,Total,Alberta,Institution,2015,2016
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2015/2016,12216.0,Total,Alberta,Institution,2015,2016
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2015/2016,1158.0,Total,Alberta,Institution,2015,2016
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2015/2016,7056.0,Total,Alberta,Institution,2015,2016
+"Olds College, Alberta",Olds College,Olds College,2015/2016,1170.0,Total,Alberta,Institution,2015,2016
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2015/2016,2058.0,Total,Alberta,Institution,2015,2016
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2015/2016,1947.0,Total,Alberta,Institution,2015,2016
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2015/2016,4332.0,Total,Alberta,Institution,2015,2016
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2015/2016,2283.0,Total,Alberta,Institution,2015,2016
+"Keyano College, Alberta",Keyano College,Keyano College,2015/2016,1254.0,Total,Alberta,Institution,2015,2016
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2015/2016,3636.0,Total,Alberta,Institution,2015,2016
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2015/2016,11784.0,Total,Alberta,Institution,2015,2016
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2015/2016,14268.0,Total,Alberta,Institution,2015,2016
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2015/2016,5097.0,Total,Alberta,Institution,2015,2016
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2015/2016,1185.0,Total,Alberta,Institution,2015,2016
+"Portage College, Alberta",Portage College,Portage College,2015/2016,825.0,Total,Alberta,Institution,2015,2016
+Alberta 11,Alberta,Alberta,2016/2017,190947.0,Total,Alberta,Province Total,2016,2017
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2016/2017,38244.0,Total,Alberta,Institution,2016,2017
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2016/2017,17346.0,Total,Alberta,Institution,2016,2017
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2016/2017,33189.0,Total,Alberta,Institution,2016,2017
+"Burman University, Alberta",Burman University,Burman University,2016/2017,456.0,Total,Alberta,Institution,2016,2017
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2016/2017,1878.0,Total,Alberta,Institution,2016,2017
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2016/2017,8568.0,Total,Alberta,Institution,2016,2017
+"The King's University, Alberta",The King's University,The King's University,2016/2017,780.0,Total,Alberta,Institution,2016,2017
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2016/2017,789.0,Total,Alberta,Institution,2016,2017
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2016/2017,612.0,Total,Alberta,Institution,2016,2017
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2016/2017,15897.0,Total,Alberta,Institution,2016,2017
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2016/2017,12675.0,Total,Alberta,Institution,2016,2017
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2016/2017,1140.0,Total,Alberta,Institution,2016,2017
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2016/2017,7242.0,Total,Alberta,Institution,2016,2017
+"Olds College, Alberta",Olds College,Olds College,2016/2017,1167.0,Total,Alberta,Institution,2016,2017
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2016/2017,2241.0,Total,Alberta,Institution,2016,2017
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2016/2017,1971.0,Total,Alberta,Institution,2016,2017
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2016/2017,4509.0,Total,Alberta,Institution,2016,2017
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2016/2017,2397.0,Total,Alberta,Institution,2016,2017
+"Keyano College, Alberta",Keyano College,Keyano College,2016/2017,1146.0,Total,Alberta,Institution,2016,2017
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2016/2017,3912.0,Total,Alberta,Institution,2016,2017
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2016/2017,12687.0,Total,Alberta,Institution,2016,2017
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2016/2017,13788.0,Total,Alberta,Institution,2016,2017
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2016/2017,6111.0,Total,Alberta,Institution,2016,2017
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2016/2017,1278.0,Total,Alberta,Institution,2016,2017
+"Portage College, Alberta",Portage College,Portage College,2016/2017,927.0,Total,Alberta,Institution,2016,2017
+Alberta 11,Alberta,Alberta,2017/2018,194010.0,Total,Alberta,Province Total,2017,2018
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2017/2018,39363.0,Total,Alberta,Institution,2017,2018
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2017/2018,16941.0,Total,Alberta,Institution,2017,2018
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2017/2018,33903.0,Total,Alberta,Institution,2017,2018
+"Burman University, Alberta",Burman University,Burman University,2017/2018,435.0,Total,Alberta,Institution,2017,2018
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2017/2018,2001.0,Total,Alberta,Institution,2017,2018
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2017/2018,8670.0,Total,Alberta,Institution,2017,2018
+"The King's University, Alberta",The King's University,The King's University,2017/2018,810.0,Total,Alberta,Institution,2017,2018
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2017/2018,888.0,Total,Alberta,Institution,2017,2018
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2017/2018,606.0,Total,Alberta,Institution,2017,2018
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2017/2018,16206.0,Total,Alberta,Institution,2017,2018
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2017/2018,13209.0,Total,Alberta,Institution,2017,2018
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2017/2018,1107.0,Total,Alberta,Institution,2017,2018
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2017/2018,7506.0,Total,Alberta,Institution,2017,2018
+"Olds College, Alberta",Olds College,Olds College,2017/2018,1236.0,Total,Alberta,Institution,2017,2018
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2017/2018,2361.0,Total,Alberta,Institution,2017,2018
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2017/2018,1935.0,Total,Alberta,Institution,2017,2018
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2017/2018,4584.0,Total,Alberta,Institution,2017,2018
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2017/2018,2355.0,Total,Alberta,Institution,2017,2018
+"Keyano College, Alberta",Keyano College,Keyano College,2017/2018,1242.0,Total,Alberta,Institution,2017,2018
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2017/2018,3951.0,Total,Alberta,Institution,2017,2018
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2017/2018,12972.0,Total,Alberta,Institution,2017,2018
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2017/2018,13041.0,Total,Alberta,Institution,2017,2018
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2017/2018,6345.0,Total,Alberta,Institution,2017,2018
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2017/2018,1413.0,Total,Alberta,Institution,2017,2018
+"Portage College, Alberta",Portage College,Portage College,2017/2018,933.0,Total,Alberta,Institution,2017,2018
+Alberta 11,Alberta,Alberta,2018/2019,200391.0,Total,Alberta,Province Total,2018,2019
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2018/2019,40017.0,Total,Alberta,Institution,2018,2019
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2018/2019,18561.0,Total,Alberta,Institution,2018,2019
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2018/2019,34785.0,Total,Alberta,Institution,2018,2019
+"Burman University, Alberta",Burman University,Burman University,2018/2019,435.0,Total,Alberta,Institution,2018,2019
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2018/2019,2235.0,Total,Alberta,Institution,2018,2019
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2018/2019,8709.0,Total,Alberta,Institution,2018,2019
+"The King's University, Alberta",The King's University,The King's University,2018/2019,825.0,Total,Alberta,Institution,2018,2019
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2018/2019,921.0,Total,Alberta,Institution,2018,2019
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2018/2019,594.0,Total,Alberta,Institution,2018,2019
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2018/2019,15894.0,Total,Alberta,Institution,2018,2019
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2018/2019,13362.0,Total,Alberta,Institution,2018,2019
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2018/2019,1077.0,Total,Alberta,Institution,2018,2019
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2018/2019,8451.0,Total,Alberta,Institution,2018,2019
+"Olds College, Alberta",Olds College,Olds College,2018/2019,1365.0,Total,Alberta,Institution,2018,2019
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2018/2019,2493.0,Total,Alberta,Institution,2018,2019
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2018/2019,1953.0,Total,Alberta,Institution,2018,2019
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2018/2019,4845.0,Total,Alberta,Institution,2018,2019
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2018/2019,2310.0,Total,Alberta,Institution,2018,2019
+"Keyano College, Alberta",Keyano College,Keyano College,2018/2019,1326.0,Total,Alberta,Institution,2018,2019
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2018/2019,4023.0,Total,Alberta,Institution,2018,2019
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2018/2019,13194.0,Total,Alberta,Institution,2018,2019
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2018/2019,13587.0,Total,Alberta,Institution,2018,2019
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2018/2019,7035.0,Total,Alberta,Institution,2018,2019
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2018/2019,1416.0,Total,Alberta,Institution,2018,2019
+"Portage College, Alberta",Portage College,Portage College,2018/2019,987.0,Total,Alberta,Institution,2018,2019
+Alberta 11,Alberta,Alberta,2019/2020,203823.0,Total,Alberta,Province Total,2019,2020
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2019/2020,40590.0,Total,Alberta,Institution,2019,2020
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2019/2020,18930.0,Total,Alberta,Institution,2019,2020
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2019/2020,35556.0,Total,Alberta,Institution,2019,2020
+"Burman University, Alberta",Burman University,Burman University,2019/2020,459.0,Total,Alberta,Institution,2019,2020
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2019/2020,2679.0,Total,Alberta,Institution,2019,2020
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2019/2020,8949.0,Total,Alberta,Institution,2019,2020
+"The King's University, Alberta",The King's University,The King's University,2019/2020,834.0,Total,Alberta,Institution,2019,2020
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2019/2020,999.0,Total,Alberta,Institution,2019,2020
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2019/2020,573.0,Total,Alberta,Institution,2019,2020
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2019/2020,15639.0,Total,Alberta,Institution,2019,2020
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2019/2020,13674.0,Total,Alberta,Institution,2019,2020
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2019/2020,1143.0,Total,Alberta,Institution,2019,2020
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2019/2020,8445.0,Total,Alberta,Institution,2019,2020
+"Olds College, Alberta",Olds College,Olds College,2019/2020,1461.0,Total,Alberta,Institution,2019,2020
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2019/2020,2427.0,Total,Alberta,Institution,2019,2020
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2019/2020,2046.0,Total,Alberta,Institution,2019,2020
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2019/2020,5040.0,Total,Alberta,Institution,2019,2020
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2019/2020,2184.0,Total,Alberta,Institution,2019,2020
+"Keyano College, Alberta",Keyano College,Keyano College,2019/2020,1332.0,Total,Alberta,Institution,2019,2020
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2019/2020,4104.0,Total,Alberta,Institution,2019,2020
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2019/2020,13242.0,Total,Alberta,Institution,2019,2020
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2019/2020,13629.0,Total,Alberta,Institution,2019,2020
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2019/2020,7536.0,Total,Alberta,Institution,2019,2020
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2019/2020,1377.0,Total,Alberta,Institution,2019,2020
+"Portage College, Alberta",Portage College,Portage College,2019/2020,969.0,Total,Alberta,Institution,2019,2020
+Alberta 11,Alberta,Alberta,2020/2021,203523.0,Total,Alberta,Province Total,2020,2021
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2020/2021,42270.0,Total,Alberta,Institution,2020,2021
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2020/2021,20535.0,Total,Alberta,Institution,2020,2021
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2020/2021,36543.0,Total,Alberta,Institution,2020,2021
+"Burman University, Alberta",Burman University,Burman University,2020/2021,390.0,Total,Alberta,Institution,2020,2021
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2020/2021,2997.0,Total,Alberta,Institution,2020,2021
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2020/2021,8829.0,Total,Alberta,Institution,2020,2021
+"The King's University, Alberta",The King's University,The King's University,2020/2021,849.0,Total,Alberta,Institution,2020,2021
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2020/2021,1020.0,Total,Alberta,Institution,2020,2021
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2020/2021,600.0,Total,Alberta,Institution,2020,2021
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2020/2021,15780.0,Total,Alberta,Institution,2020,2021
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2020/2021,14019.0,Total,Alberta,Institution,2020,2021
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2020/2021,1110.0,Total,Alberta,Institution,2020,2021
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2020/2021,7032.0,Total,Alberta,Institution,2020,2021
+"Olds College, Alberta",Olds College,Olds College,2020/2021,1383.0,Total,Alberta,Institution,2020,2021
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2020/2021,2073.0,Total,Alberta,Institution,2020,2021
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2020/2021,1764.0,Total,Alberta,Institution,2020,2021
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2020/2021,4707.0,Total,Alberta,Institution,2020,2021
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2020/2021,2088.0,Total,Alberta,Institution,2020,2021
+"Keyano College, Alberta",Keyano College,Keyano College,2020/2021,1086.0,Total,Alberta,Institution,2020,2021
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2020/2021,3837.0,Total,Alberta,Institution,2020,2021
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2020/2021,12909.0,Total,Alberta,Institution,2020,2021
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2020/2021,12240.0,Total,Alberta,Institution,2020,2021
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2020/2021,7143.0,Total,Alberta,Institution,2020,2021
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2020/2021,1434.0,Total,Alberta,Institution,2020,2021
+"Portage College, Alberta",Portage College,Portage College,2020/2021,885.0,Total,Alberta,Institution,2020,2021
+Alberta 11,Alberta,Alberta,2021/2022,203580.0,Total,Alberta,Province Total,2021,2022
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2021/2022,43905.0,Total,Alberta,Institution,2021,2022
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2021/2022,17127.0,Total,Alberta,Institution,2021,2022
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2021/2022,37200.0,Total,Alberta,Institution,2021,2022
+"Burman University, Alberta",Burman University,Burman University,2021/2022,339.0,Total,Alberta,Institution,2021,2022
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2021/2022,2817.0,Total,Alberta,Institution,2021,2022
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2021/2022,9117.0,Total,Alberta,Institution,2021,2022
+"The King's University, Alberta",The King's University,The King's University,2021/2022,879.0,Total,Alberta,Institution,2021,2022
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2021/2022,1032.0,Total,Alberta,Institution,2021,2022
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2021/2022,546.0,Total,Alberta,Institution,2021,2022
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2021/2022,15501.0,Total,Alberta,Institution,2021,2022
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2021/2022,14346.0,Total,Alberta,Institution,2021,2022
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2021/2022,1089.0,Total,Alberta,Institution,2021,2022
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2021/2022,7170.0,Total,Alberta,Institution,2021,2022
+"Olds College, Alberta",Olds College,Olds College,2021/2022,1518.0,Total,Alberta,Institution,2021,2022
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2021/2022,2226.0,Total,Alberta,Institution,2021,2022
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2021/2022,1701.0,Total,Alberta,Institution,2021,2022
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2021/2022,4626.0,Total,Alberta,Institution,2021,2022
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2021/2022,2019.0,Total,Alberta,Institution,2021,2022
+"Keyano College, Alberta",Keyano College,Keyano College,2021/2022,1194.0,Total,Alberta,Institution,2021,2022
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2021/2022,3705.0,Total,Alberta,Institution,2021,2022
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2021/2022,12723.0,Total,Alberta,Institution,2021,2022
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2021/2022,12312.0,Total,Alberta,Institution,2021,2022
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2021/2022,7821.0,Total,Alberta,Institution,2021,2022
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2021/2022,1581.0,Total,Alberta,Institution,2021,2022
+"Portage College, Alberta",Portage College,Portage College,2021/2022,1095.0,Total,Alberta,Institution,2021,2022
+Alberta 11,Alberta,Alberta,2022/2023,205734.0,Total,Alberta,Province Total,2022,2023
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2022/2023,44535.0,Total,Alberta,Institution,2022,2023
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2022/2023,16458.0,Total,Alberta,Institution,2022,2023
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2022/2023,37680.0,Total,Alberta,Institution,2022,2023
+"Burman University, Alberta",Burman University,Burman University,2022/2023,348.0,Total,Alberta,Institution,2022,2023
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2022/2023,2628.0,Total,Alberta,Institution,2022,2023
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2022/2023,8553.0,Total,Alberta,Institution,2022,2023
+"The King's University, Alberta",The King's University,The King's University,2022/2023,810.0,Total,Alberta,Institution,2022,2023
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2022/2023,942.0,Total,Alberta,Institution,2022,2023
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2022/2023,537.0,Total,Alberta,Institution,2022,2023
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2022/2023,15249.0,Total,Alberta,Institution,2022,2023
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2022/2023,14187.0,Total,Alberta,Institution,2022,2023
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2022/2023,1131.0,Total,Alberta,Institution,2022,2023
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2022/2023,8022.0,Total,Alberta,Institution,2022,2023
+"Olds College, Alberta",Olds College,Olds College,2022/2023,1782.0,Total,Alberta,Institution,2022,2023
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2022/2023,2343.0,Total,Alberta,Institution,2022,2023
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2022/2023,1632.0,Total,Alberta,Institution,2022,2023
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2022/2023,4734.0,Total,Alberta,Institution,2022,2023
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2022/2023,2082.0,Total,Alberta,Institution,2022,2023
+"Keyano College, Alberta",Keyano College,Keyano College,2022/2023,1311.0,Total,Alberta,Institution,2022,2023
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2022/2023,3852.0,Total,Alberta,Institution,2022,2023
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2022/2023,12123.0,Total,Alberta,Institution,2022,2023
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2022/2023,12870.0,Total,Alberta,Institution,2022,2023
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2022/2023,8781.0,Total,Alberta,Institution,2022,2023
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2022/2023,1749.0,Total,Alberta,Institution,2022,2023
+"Portage College, Alberta",Portage College,Portage College,2022/2023,1398.0,Total,Alberta,Institution,2022,2023
+Alberta 11,Alberta,Alberta,2023/2024,216957.0,Total,Alberta,Province Total,2023,2024
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2023/2024,45306.0,Total,Alberta,Institution,2023,2024
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2023/2024,16005.0,Total,Alberta,Institution,2023,2024
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2023/2024,38715.0,Total,Alberta,Institution,2023,2024
+"Burman University, Alberta",Burman University,Burman University,2023/2024,333.0,Total,Alberta,Institution,2023,2024
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2023/2024,2568.0,Total,Alberta,Institution,2023,2024
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2023/2024,8682.0,Total,Alberta,Institution,2023,2024
+"The King's University, Alberta",The King's University,The King's University,2023/2024,804.0,Total,Alberta,Institution,2023,2024
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2023/2024,924.0,Total,Alberta,Institution,2023,2024
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2023/2024,552.0,Total,Alberta,Institution,2023,2024
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2023/2024,16101.0,Total,Alberta,Institution,2023,2024
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2023/2024,14709.0,Total,Alberta,Institution,2023,2024
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2023/2024,1200.0,Total,Alberta,Institution,2023,2024
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2023/2024,8931.0,Total,Alberta,Institution,2023,2024
+"Olds College, Alberta",Olds College,Olds College,2023/2024,2223.0,Total,Alberta,Institution,2023,2024
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2023/2024,2469.0,Total,Alberta,Institution,2023,2024
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2023/2024,1908.0,Total,Alberta,Institution,2023,2024
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2023/2024,5103.0,Total,Alberta,Institution,2023,2024
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2023/2024,2268.0,Total,Alberta,Institution,2023,2024
+"Keyano College, Alberta",Keyano College,Keyano College,2023/2024,1809.0,Total,Alberta,Institution,2023,2024
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2023/2024,4242.0,Total,Alberta,Institution,2023,2024
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2023/2024,12993.0,Total,Alberta,Institution,2023,2024
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2023/2024,15306.0,Total,Alberta,Institution,2023,2024
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2023/2024,10299.0,Total,Alberta,Institution,2023,2024
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2023/2024,1944.0,Total,Alberta,Institution,2023,2024
+"Portage College, Alberta",Portage College,Portage College,2023/2024,1569.0,Total,Alberta,Institution,2023,2024
+Alberta 11,Alberta,Alberta,2014/2015,167463.0,Canadian,Alberta,Province Total,2014,2015
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2014/2015,31689.0,Canadian,Alberta,Institution,2014,2015
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2014/2015,17211.0,Canadian,Alberta,Institution,2014,2015
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2014/2015,28200.0,Canadian,Alberta,Institution,2014,2015
+"Burman University, Alberta",Burman University,Burman University,2014/2015,423.0,Canadian,Alberta,Institution,2014,2015
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2014/2015,1368.0,Canadian,Alberta,Institution,2014,2015
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2014/2015,7614.0,Canadian,Alberta,Institution,2014,2015
+"The King's University, Alberta",The King's University,The King's University,2014/2015,660.0,Canadian,Alberta,Institution,2014,2015
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2014/2015,723.0,Canadian,Alberta,Institution,2014,2015
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2014/2015,501.0,Canadian,Alberta,Institution,2014,2015
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2014/2015,14868.0,Canadian,Alberta,Institution,2014,2015
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2014/2015,11895.0,Canadian,Alberta,Institution,2014,2015
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2014/2015,1047.0,Canadian,Alberta,Institution,2014,2015
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2014/2015,6429.0,Canadian,Alberta,Institution,2014,2015
+"Olds College, Alberta",Olds College,Olds College,2014/2015,1329.0,Canadian,Alberta,Institution,2014,2015
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2014/2015,1908.0,Canadian,Alberta,Institution,2014,2015
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2014/2015,1959.0,Canadian,Alberta,Institution,2014,2015
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2014/2015,4209.0,Canadian,Alberta,Institution,2014,2015
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2014/2015,2037.0,Canadian,Alberta,Institution,2014,2015
+"Keyano College, Alberta",Keyano College,Keyano College,2014/2015,1359.0,Canadian,Alberta,Institution,2014,2015
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2014/2015,3279.0,Canadian,Alberta,Institution,2014,2015
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2014/2015,9603.0,Canadian,Alberta,Institution,2014,2015
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2014/2015,12915.0,Canadian,Alberta,Institution,2014,2015
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2014/2015,4113.0,Canadian,Alberta,Institution,2014,2015
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2014/2015,1371.0,Canadian,Alberta,Institution,2014,2015
+"Portage College, Alberta",Portage College,Portage College,2014/2015,756.0,Canadian,Alberta,Institution,2014,2015
+Alberta 11,Alberta,Alberta,2015/2016,167946.0,Canadian,Alberta,Province Total,2015,2016
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2015/2016,31041.0,Canadian,Alberta,Institution,2015,2016
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2015/2016,16860.0,Canadian,Alberta,Institution,2015,2016
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2015/2016,28398.0,Canadian,Alberta,Institution,2015,2016
+"Burman University, Alberta",Burman University,Burman University,2015/2016,414.0,Canadian,Alberta,Institution,2015,2016
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2015/2016,1539.0,Canadian,Alberta,Institution,2015,2016
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2015/2016,7869.0,Canadian,Alberta,Institution,2015,2016
+"The King's University, Alberta",The King's University,The King's University,2015/2016,711.0,Canadian,Alberta,Institution,2015,2016
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2015/2016,765.0,Canadian,Alberta,Institution,2015,2016
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2015/2016,555.0,Canadian,Alberta,Institution,2015,2016
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2015/2016,14772.0,Canadian,Alberta,Institution,2015,2016
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2015/2016,11712.0,Canadian,Alberta,Institution,2015,2016
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2015/2016,1083.0,Canadian,Alberta,Institution,2015,2016
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2015/2016,6477.0,Canadian,Alberta,Institution,2015,2016
+"Olds College, Alberta",Olds College,Olds College,2015/2016,1140.0,Canadian,Alberta,Institution,2015,2016
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2015/2016,2019.0,Canadian,Alberta,Institution,2015,2016
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2015/2016,1893.0,Canadian,Alberta,Institution,2015,2016
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2015/2016,4137.0,Canadian,Alberta,Institution,2015,2016
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2015/2016,2070.0,Canadian,Alberta,Institution,2015,2016
+"Keyano College, Alberta",Keyano College,Keyano College,2015/2016,1167.0,Canadian,Alberta,Institution,2015,2016
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2015/2016,3549.0,Canadian,Alberta,Institution,2015,2016
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2015/2016,10416.0,Canadian,Alberta,Institution,2015,2016
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2015/2016,12546.0,Canadian,Alberta,Institution,2015,2016
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2015/2016,4827.0,Canadian,Alberta,Institution,2015,2016
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2015/2016,1173.0,Canadian,Alberta,Institution,2015,2016
+"Portage College, Alberta",Portage College,Portage College,2015/2016,816.0,Canadian,Alberta,Institution,2015,2016
+Alberta 11,Alberta,Alberta,2016/2017,172506.0,Canadian,Alberta,Province Total,2016,2017
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2016/2017,31467.0,Canadian,Alberta,Institution,2016,2017
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2016/2017,16836.0,Canadian,Alberta,Institution,2016,2017
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2016/2017,29697.0,Canadian,Alberta,Institution,2016,2017
+"Burman University, Alberta",Burman University,Burman University,2016/2017,390.0,Canadian,Alberta,Institution,2016,2017
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2016/2017,1707.0,Canadian,Alberta,Institution,2016,2017
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2016/2017,8022.0,Canadian,Alberta,Institution,2016,2017
+"The King's University, Alberta",The King's University,The King's University,2016/2017,723.0,Canadian,Alberta,Institution,2016,2017
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2016/2017,780.0,Canadian,Alberta,Institution,2016,2017
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2016/2017,588.0,Canadian,Alberta,Institution,2016,2017
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2016/2017,14865.0,Canadian,Alberta,Institution,2016,2017
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2016/2017,12216.0,Canadian,Alberta,Institution,2016,2017
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2016/2017,1068.0,Canadian,Alberta,Institution,2016,2017
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2016/2017,6528.0,Canadian,Alberta,Institution,2016,2017
+"Olds College, Alberta",Olds College,Olds College,2016/2017,1137.0,Canadian,Alberta,Institution,2016,2017
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2016/2017,2169.0,Canadian,Alberta,Institution,2016,2017
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2016/2017,1926.0,Canadian,Alberta,Institution,2016,2017
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2016/2017,4275.0,Canadian,Alberta,Institution,2016,2017
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2016/2017,2181.0,Canadian,Alberta,Institution,2016,2017
+"Keyano College, Alberta",Keyano College,Keyano College,2016/2017,1044.0,Canadian,Alberta,Institution,2016,2017
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2016/2017,3798.0,Canadian,Alberta,Institution,2016,2017
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2016/2017,11217.0,Canadian,Alberta,Institution,2016,2017
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2016/2017,11949.0,Canadian,Alberta,Institution,2016,2017
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2016/2017,5745.0,Canadian,Alberta,Institution,2016,2017
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2016/2017,1269.0,Canadian,Alberta,Institution,2016,2017
+"Portage College, Alberta",Portage College,Portage College,2016/2017,909.0,Canadian,Alberta,Institution,2016,2017
+Alberta 11,Alberta,Alberta,2017/2018,175065.0,Canadian,Alberta,Province Total,2017,2018
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2017/2018,32043.0,Canadian,Alberta,Institution,2017,2018
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2017/2018,16371.0,Canadian,Alberta,Institution,2017,2018
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2017/2018,30195.0,Canadian,Alberta,Institution,2017,2018
+"Burman University, Alberta",Burman University,Burman University,2017/2018,375.0,Canadian,Alberta,Institution,2017,2018
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2017/2018,1848.0,Canadian,Alberta,Institution,2017,2018
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2017/2018,8169.0,Canadian,Alberta,Institution,2017,2018
+"The King's University, Alberta",The King's University,The King's University,2017/2018,747.0,Canadian,Alberta,Institution,2017,2018
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2017/2018,870.0,Canadian,Alberta,Institution,2017,2018
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2017/2018,576.0,Canadian,Alberta,Institution,2017,2018
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2017/2018,15195.0,Canadian,Alberta,Institution,2017,2018
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2017/2018,12837.0,Canadian,Alberta,Institution,2017,2018
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2017/2018,1026.0,Canadian,Alberta,Institution,2017,2018
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2017/2018,6420.0,Canadian,Alberta,Institution,2017,2018
+"Olds College, Alberta",Olds College,Olds College,2017/2018,1194.0,Canadian,Alberta,Institution,2017,2018
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2017/2018,2226.0,Canadian,Alberta,Institution,2017,2018
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2017/2018,1884.0,Canadian,Alberta,Institution,2017,2018
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2017/2018,4356.0,Canadian,Alberta,Institution,2017,2018
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2017/2018,2103.0,Canadian,Alberta,Institution,2017,2018
+"Keyano College, Alberta",Keyano College,Keyano College,2017/2018,1149.0,Canadian,Alberta,Institution,2017,2018
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2017/2018,3861.0,Canadian,Alberta,Institution,2017,2018
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2017/2018,11631.0,Canadian,Alberta,Institution,2017,2018
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2017/2018,11793.0,Canadian,Alberta,Institution,2017,2018
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2017/2018,5865.0,Canadian,Alberta,Institution,2017,2018
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2017/2018,1410.0,Canadian,Alberta,Institution,2017,2018
+"Portage College, Alberta",Portage College,Portage College,2017/2018,921.0,Canadian,Alberta,Institution,2017,2018
+Alberta 11,Alberta,Alberta,2018/2019,178617.0,Canadian,Alberta,Province Total,2018,2019
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2018/2019,32292.0,Canadian,Alberta,Institution,2018,2019
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2018/2019,17979.0,Canadian,Alberta,Institution,2018,2019
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2018/2019,30582.0,Canadian,Alberta,Institution,2018,2019
+"Burman University, Alberta",Burman University,Burman University,2018/2019,351.0,Canadian,Alberta,Institution,2018,2019
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2018/2019,1980.0,Canadian,Alberta,Institution,2018,2019
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2018/2019,8229.0,Canadian,Alberta,Institution,2018,2019
+"The King's University, Alberta",The King's University,The King's University,2018/2019,765.0,Canadian,Alberta,Institution,2018,2019
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2018/2019,906.0,Canadian,Alberta,Institution,2018,2019
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2018/2019,567.0,Canadian,Alberta,Institution,2018,2019
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2018/2019,14979.0,Canadian,Alberta,Institution,2018,2019
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2018/2019,13005.0,Canadian,Alberta,Institution,2018,2019
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2018/2019,993.0,Canadian,Alberta,Institution,2018,2019
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2018/2019,6813.0,Canadian,Alberta,Institution,2018,2019
+"Olds College, Alberta",Olds College,Olds College,2018/2019,1248.0,Canadian,Alberta,Institution,2018,2019
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2018/2019,2226.0,Canadian,Alberta,Institution,2018,2019
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2018/2019,1866.0,Canadian,Alberta,Institution,2018,2019
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2018/2019,4401.0,Canadian,Alberta,Institution,2018,2019
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2018/2019,2016.0,Canadian,Alberta,Institution,2018,2019
+"Keyano College, Alberta",Keyano College,Keyano College,2018/2019,1254.0,Canadian,Alberta,Institution,2018,2019
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2018/2019,3909.0,Canadian,Alberta,Institution,2018,2019
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2018/2019,11778.0,Canadian,Alberta,Institution,2018,2019
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2018/2019,11988.0,Canadian,Alberta,Institution,2018,2019
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2018/2019,6093.0,Canadian,Alberta,Institution,2018,2019
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2018/2019,1413.0,Canadian,Alberta,Institution,2018,2019
+"Portage College, Alberta",Portage College,Portage College,2018/2019,984.0,Canadian,Alberta,Institution,2018,2019
+Alberta 11,Alberta,Alberta,2019/2020,179178.0,Canadian,Alberta,Province Total,2019,2020
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2019/2020,32382.0,Canadian,Alberta,Institution,2019,2020
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2019/2020,18279.0,Canadian,Alberta,Institution,2019,2020
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2019/2020,30693.0,Canadian,Alberta,Institution,2019,2020
+"Burman University, Alberta",Burman University,Burman University,2019/2020,366.0,Canadian,Alberta,Institution,2019,2020
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2019/2020,2226.0,Canadian,Alberta,Institution,2019,2020
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2019/2020,8391.0,Canadian,Alberta,Institution,2019,2020
+"The King's University, Alberta",The King's University,The King's University,2019/2020,747.0,Canadian,Alberta,Institution,2019,2020
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2019/2020,984.0,Canadian,Alberta,Institution,2019,2020
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2019/2020,564.0,Canadian,Alberta,Institution,2019,2020
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2019/2020,14949.0,Canadian,Alberta,Institution,2019,2020
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2019/2020,13326.0,Canadian,Alberta,Institution,2019,2020
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2019/2020,1056.0,Canadian,Alberta,Institution,2019,2020
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2019/2020,6642.0,Canadian,Alberta,Institution,2019,2020
+"Olds College, Alberta",Olds College,Olds College,2019/2020,1338.0,Canadian,Alberta,Institution,2019,2020
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2019/2020,2172.0,Canadian,Alberta,Institution,2019,2020
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2019/2020,1860.0,Canadian,Alberta,Institution,2019,2020
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2019/2020,4425.0,Canadian,Alberta,Institution,2019,2020
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2019/2020,1881.0,Canadian,Alberta,Institution,2019,2020
+"Keyano College, Alberta",Keyano College,Keyano College,2019/2020,1236.0,Canadian,Alberta,Institution,2019,2020
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2019/2020,3939.0,Canadian,Alberta,Institution,2019,2020
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2019/2020,11499.0,Canadian,Alberta,Institution,2019,2020
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2019/2020,11595.0,Canadian,Alberta,Institution,2019,2020
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2019/2020,6294.0,Canadian,Alberta,Institution,2019,2020
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2019/2020,1374.0,Canadian,Alberta,Institution,2019,2020
+"Portage College, Alberta",Portage College,Portage College,2019/2020,963.0,Canadian,Alberta,Institution,2019,2020
+Alberta 11,Alberta,Alberta,2020/2021,179850.0,Canadian,Alberta,Province Total,2020,2021
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2020/2021,34329.0,Canadian,Alberta,Institution,2020,2021
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2020/2021,19908.0,Canadian,Alberta,Institution,2020,2021
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2020/2021,31512.0,Canadian,Alberta,Institution,2020,2021
+"Burman University, Alberta",Burman University,Burman University,2020/2021,300.0,Canadian,Alberta,Institution,2020,2021
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2020/2021,2454.0,Canadian,Alberta,Institution,2020,2021
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2020/2021,8319.0,Canadian,Alberta,Institution,2020,2021
+"The King's University, Alberta",The King's University,The King's University,2020/2021,768.0,Canadian,Alberta,Institution,2020,2021
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2020/2021,1005.0,Canadian,Alberta,Institution,2020,2021
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2020/2021,567.0,Canadian,Alberta,Institution,2020,2021
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2020/2021,15294.0,Canadian,Alberta,Institution,2020,2021
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2020/2021,13677.0,Canadian,Alberta,Institution,2020,2021
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2020/2021,1017.0,Canadian,Alberta,Institution,2020,2021
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2020/2021,5481.0,Canadian,Alberta,Institution,2020,2021
+"Olds College, Alberta",Olds College,Olds College,2020/2021,1293.0,Canadian,Alberta,Institution,2020,2021
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2020/2021,1896.0,Canadian,Alberta,Institution,2020,2021
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2020/2021,1617.0,Canadian,Alberta,Institution,2020,2021
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2020/2021,4206.0,Canadian,Alberta,Institution,2020,2021
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2020/2021,1884.0,Canadian,Alberta,Institution,2020,2021
+"Keyano College, Alberta",Keyano College,Keyano College,2020/2021,993.0,Canadian,Alberta,Institution,2020,2021
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2020/2021,3654.0,Canadian,Alberta,Institution,2020,2021
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2020/2021,11082.0,Canadian,Alberta,Institution,2020,2021
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2020/2021,10323.0,Canadian,Alberta,Institution,2020,2021
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2020/2021,5961.0,Canadian,Alberta,Institution,2020,2021
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2020/2021,1422.0,Canadian,Alberta,Institution,2020,2021
+"Portage College, Alberta",Portage College,Portage College,2020/2021,882.0,Canadian,Alberta,Institution,2020,2021
+Alberta 11,Alberta,Alberta,2021/2022,178239.0,Canadian,Alberta,Province Total,2021,2022
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2021/2022,35688.0,Canadian,Alberta,Institution,2021,2022
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2021/2022,16668.0,Canadian,Alberta,Institution,2021,2022
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2021/2022,31029.0,Canadian,Alberta,Institution,2021,2022
+"Burman University, Alberta",Burman University,Burman University,2021/2022,273.0,Canadian,Alberta,Institution,2021,2022
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2021/2022,2376.0,Canadian,Alberta,Institution,2021,2022
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2021/2022,8499.0,Canadian,Alberta,Institution,2021,2022
+"The King's University, Alberta",The King's University,The King's University,2021/2022,804.0,Canadian,Alberta,Institution,2021,2022
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2021/2022,1017.0,Canadian,Alberta,Institution,2021,2022
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2021/2022,531.0,Canadian,Alberta,Institution,2021,2022
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2021/2022,14973.0,Canadian,Alberta,Institution,2021,2022
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2021/2022,13989.0,Canadian,Alberta,Institution,2021,2022
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2021/2022,1011.0,Canadian,Alberta,Institution,2021,2022
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2021/2022,5613.0,Canadian,Alberta,Institution,2021,2022
+"Olds College, Alberta",Olds College,Olds College,2021/2022,1431.0,Canadian,Alberta,Institution,2021,2022
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2021/2022,2097.0,Canadian,Alberta,Institution,2021,2022
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2021/2022,1599.0,Canadian,Alberta,Institution,2021,2022
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2021/2022,4194.0,Canadian,Alberta,Institution,2021,2022
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2021/2022,1833.0,Canadian,Alberta,Institution,2021,2022
+"Keyano College, Alberta",Keyano College,Keyano College,2021/2022,1062.0,Canadian,Alberta,Institution,2021,2022
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2021/2022,3444.0,Canadian,Alberta,Institution,2021,2022
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2021/2022,10998.0,Canadian,Alberta,Institution,2021,2022
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2021/2022,10254.0,Canadian,Alberta,Institution,2021,2022
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2021/2022,6237.0,Canadian,Alberta,Institution,2021,2022
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2021/2022,1566.0,Canadian,Alberta,Institution,2021,2022
+"Portage College, Alberta",Portage College,Portage College,2021/2022,1056.0,Canadian,Alberta,Institution,2021,2022
+Alberta 11,Alberta,Alberta,2022/2023,175698.0,Canadian,Alberta,Province Total,2022,2023
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2022/2023,36063.0,Canadian,Alberta,Institution,2022,2023
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2022/2023,16008.0,Canadian,Alberta,Institution,2022,2023
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2022/2023,30765.0,Canadian,Alberta,Institution,2022,2023
+"Burman University, Alberta",Burman University,Burman University,2022/2023,288.0,Canadian,Alberta,Institution,2022,2023
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2022/2023,2178.0,Canadian,Alberta,Institution,2022,2023
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2022/2023,7722.0,Canadian,Alberta,Institution,2022,2023
+"The King's University, Alberta",The King's University,The King's University,2022/2023,726.0,Canadian,Alberta,Institution,2022,2023
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2022/2023,933.0,Canadian,Alberta,Institution,2022,2023
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2022/2023,510.0,Canadian,Alberta,Institution,2022,2023
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2022/2023,14676.0,Canadian,Alberta,Institution,2022,2023
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2022/2023,13746.0,Canadian,Alberta,Institution,2022,2023
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2022/2023,1026.0,Canadian,Alberta,Institution,2022,2023
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2022/2023,5949.0,Canadian,Alberta,Institution,2022,2023
+"Olds College, Alberta",Olds College,Olds College,2022/2023,1668.0,Canadian,Alberta,Institution,2022,2023
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2022/2023,2202.0,Canadian,Alberta,Institution,2022,2023
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2022/2023,1500.0,Canadian,Alberta,Institution,2022,2023
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2022/2023,4089.0,Canadian,Alberta,Institution,2022,2023
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2022/2023,1821.0,Canadian,Alberta,Institution,2022,2023
+"Keyano College, Alberta",Keyano College,Keyano College,2022/2023,1014.0,Canadian,Alberta,Institution,2022,2023
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2022/2023,3360.0,Canadian,Alberta,Institution,2022,2023
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2022/2023,10083.0,Canadian,Alberta,Institution,2022,2023
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2022/2023,9750.0,Canadian,Alberta,Institution,2022,2023
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2022/2023,6675.0,Canadian,Alberta,Institution,2022,2023
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2022/2023,1737.0,Canadian,Alberta,Institution,2022,2023
+"Portage College, Alberta",Portage College,Portage College,2022/2023,1200.0,Canadian,Alberta,Institution,2022,2023
+Alberta 11,Alberta,Alberta,2023/2024,179535.0,Canadian,Alberta,Province Total,2023,2024
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2023/2024,36972.0,Canadian,Alberta,Institution,2023,2024
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2023/2024,15486.0,Canadian,Alberta,Institution,2023,2024
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2023/2024,31602.0,Canadian,Alberta,Institution,2023,2024
+"Burman University, Alberta",Burman University,Burman University,2023/2024,261.0,Canadian,Alberta,Institution,2023,2024
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2023/2024,2076.0,Canadian,Alberta,Institution,2023,2024
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2023/2024,7350.0,Canadian,Alberta,Institution,2023,2024
+"The King's University, Alberta",The King's University,The King's University,2023/2024,711.0,Canadian,Alberta,Institution,2023,2024
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2023/2024,915.0,Canadian,Alberta,Institution,2023,2024
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2023/2024,510.0,Canadian,Alberta,Institution,2023,2024
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2023/2024,15342.0,Canadian,Alberta,Institution,2023,2024
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2023/2024,14169.0,Canadian,Alberta,Institution,2023,2024
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2023/2024,1101.0,Canadian,Alberta,Institution,2023,2024
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2023/2024,6252.0,Canadian,Alberta,Institution,2023,2024
+"Olds College, Alberta",Olds College,Olds College,2023/2024,1797.0,Canadian,Alberta,Institution,2023,2024
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2023/2024,2265.0,Canadian,Alberta,Institution,2023,2024
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2023/2024,1605.0,Canadian,Alberta,Institution,2023,2024
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2023/2024,3972.0,Canadian,Alberta,Institution,2023,2024
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2023/2024,1911.0,Canadian,Alberta,Institution,2023,2024
+"Keyano College, Alberta",Keyano College,Keyano College,2023/2024,1053.0,Canadian,Alberta,Institution,2023,2024
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2023/2024,3465.0,Canadian,Alberta,Institution,2023,2024
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2023/2024,10533.0,Canadian,Alberta,Institution,2023,2024
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2023/2024,10134.0,Canadian,Alberta,Institution,2023,2024
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2023/2024,6654.0,Canadian,Alberta,Institution,2023,2024
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2023/2024,1929.0,Canadian,Alberta,Institution,2023,2024
+"Portage College, Alberta",Portage College,Portage College,2023/2024,1473.0,Canadian,Alberta,Institution,2023,2024
+Alberta 11,Alberta,Alberta,2014/2015,16458.0,International,Alberta,Province Total,2014,2015
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2014/2015,6831.0,International,Alberta,Institution,2014,2015
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2014/2015,354.0,International,Alberta,Institution,2014,2015
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2014/2015,3111.0,International,Alberta,Institution,2014,2015
+"Burman University, Alberta",Burman University,Burman University,2014/2015,51.0,International,Alberta,Institution,2014,2015
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2014/2015,138.0,International,Alberta,Institution,2014,2015
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2014/2015,543.0,International,Alberta,Institution,2014,2015
+"The King's University, Alberta",The King's University,The King's University,2014/2015,39.0,International,Alberta,Institution,2014,2015
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2014/2015,9.0,International,Alberta,Institution,2014,2015
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2014/2015,18.0,International,Alberta,Institution,2014,2015
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2014/2015,1005.0,International,Alberta,Institution,2014,2015
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2014/2015,420.0,International,Alberta,Institution,2014,2015
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2014/2015,63.0,International,Alberta,Institution,2014,2015
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2014/2015,465.0,International,Alberta,Institution,2014,2015
+"Olds College, Alberta",Olds College,Olds College,2014/2015,42.0,International,Alberta,Institution,2014,2015
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2014/2015,51.0,International,Alberta,Institution,2014,2015
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2014/2015,39.0,International,Alberta,Institution,2014,2015
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2014/2015,204.0,International,Alberta,Institution,2014,2015
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2014/2015,234.0,International,Alberta,Institution,2014,2015
+"Keyano College, Alberta",Keyano College,Keyano College,2014/2015,72.0,International,Alberta,Institution,2014,2015
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2014/2015,66.0,International,Alberta,Institution,2014,2015
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2014/2015,1215.0,International,Alberta,Institution,2014,2015
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2014/2015,1380.0,International,Alberta,Institution,2014,2015
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2014/2015,99.0,International,Alberta,Institution,2014,2015
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2014/2015,21.0,International,Alberta,Institution,2014,2015
+"Portage College, Alberta",Portage College,Portage College,2014/2015,3.0,International,Alberta,Institution,2014,2015
+Alberta 11,Alberta,Alberta,2015/2016,17478.0,International,Alberta,Province Total,2015,2016
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2015/2016,6672.0,International,Alberta,Institution,2015,2016
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2015/2016,429.0,International,Alberta,Institution,2015,2016
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2015/2016,3351.0,International,Alberta,Institution,2015,2016
+"Burman University, Alberta",Burman University,Burman University,2015/2016,57.0,International,Alberta,Institution,2015,2016
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2015/2016,147.0,International,Alberta,Institution,2015,2016
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2015/2016,537.0,International,Alberta,Institution,2015,2016
+"The King's University, Alberta",The King's University,The King's University,2015/2016,51.0,International,Alberta,Institution,2015,2016
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2015/2016,6.0,International,Alberta,Institution,2015,2016
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2015/2016,15.0,International,Alberta,Institution,2015,2016
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2015/2016,1179.0,International,Alberta,Institution,2015,2016
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2015/2016,405.0,International,Alberta,Institution,2015,2016
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2015/2016,69.0,International,Alberta,Institution,2015,2016
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2015/2016,579.0,International,Alberta,Institution,2015,2016
+"Olds College, Alberta",Olds College,Olds College,2015/2016,30.0,International,Alberta,Institution,2015,2016
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2015/2016,39.0,International,Alberta,Institution,2015,2016
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2015/2016,57.0,International,Alberta,Institution,2015,2016
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2015/2016,198.0,International,Alberta,Institution,2015,2016
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2015/2016,213.0,International,Alberta,Institution,2015,2016
+"Keyano College, Alberta",Keyano College,Keyano College,2015/2016,90.0,International,Alberta,Institution,2015,2016
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2015/2016,90.0,International,Alberta,Institution,2015,2016
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2015/2016,1326.0,International,Alberta,Institution,2015,2016
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2015/2016,1719.0,International,Alberta,Institution,2015,2016
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2015/2016,204.0,International,Alberta,Institution,2015,2016
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2015/2016,12.0,International,Alberta,Institution,2015,2016
+"Portage College, Alberta",Portage College,Portage College,2015/2016,9.0,International,Alberta,Institution,2015,2016
+Alberta 11,Alberta,Alberta,2016/2017,18303.0,International,Alberta,Province Total,2016,2017
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2016/2017,6777.0,International,Alberta,Institution,2016,2017
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2016/2017,468.0,International,Alberta,Institution,2016,2017
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2016/2017,3492.0,International,Alberta,Institution,2016,2017
+"Burman University, Alberta",Burman University,Burman University,2016/2017,63.0,International,Alberta,Institution,2016,2017
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2016/2017,168.0,International,Alberta,Institution,2016,2017
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2016/2017,546.0,International,Alberta,Institution,2016,2017
+"The King's University, Alberta",The King's University,The King's University,2016/2017,57.0,International,Alberta,Institution,2016,2017
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2016/2017,6.0,International,Alberta,Institution,2016,2017
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2016/2017,27.0,International,Alberta,Institution,2016,2017
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2016/2017,1035.0,International,Alberta,Institution,2016,2017
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2016/2017,420.0,International,Alberta,Institution,2016,2017
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2016/2017,66.0,International,Alberta,Institution,2016,2017
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2016/2017,714.0,International,Alberta,Institution,2016,2017
+"Olds College, Alberta",Olds College,Olds College,2016/2017,30.0,International,Alberta,Institution,2016,2017
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2016/2017,72.0,International,Alberta,Institution,2016,2017
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2016/2017,45.0,International,Alberta,Institution,2016,2017
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2016/2017,234.0,International,Alberta,Institution,2016,2017
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2016/2017,216.0,International,Alberta,Institution,2016,2017
+"Keyano College, Alberta",Keyano College,Keyano College,2016/2017,102.0,International,Alberta,Institution,2016,2017
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2016/2017,111.0,International,Alberta,Institution,2016,2017
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2016/2017,1422.0,International,Alberta,Institution,2016,2017
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2016/2017,1839.0,International,Alberta,Institution,2016,2017
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2016/2017,366.0,International,Alberta,Institution,2016,2017
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2016/2017,9.0,International,Alberta,Institution,2016,2017
+"Portage College, Alberta",Portage College,Portage College,2016/2017,15.0,International,Alberta,Institution,2016,2017
+Alberta 11,Alberta,Alberta,2017/2018,18798.0,International,Alberta,Province Total,2017,2018
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2017/2018,7305.0,International,Alberta,Institution,2017,2018
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2017/2018,531.0,International,Alberta,Institution,2017,2018
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2017/2018,3708.0,International,Alberta,Institution,2017,2018
+"Burman University, Alberta",Burman University,Burman University,2017/2018,63.0,International,Alberta,Institution,2017,2018
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2017/2018,156.0,International,Alberta,Institution,2017,2018
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2017/2018,501.0,International,Alberta,Institution,2017,2018
+"The King's University, Alberta",The King's University,The King's University,2017/2018,63.0,International,Alberta,Institution,2017,2018
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2017/2018,18.0,International,Alberta,Institution,2017,2018
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2017/2018,30.0,International,Alberta,Institution,2017,2018
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2017/2018,1011.0,International,Alberta,Institution,2017,2018
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2017/2018,351.0,International,Alberta,Institution,2017,2018
+"Alberta College of Art and Design, Alberta 11",Alberta College of Art and Design,Alberta University of the Arts,2017/2018,81.0,International,Alberta,Institution,2017,2018
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2017/2018,1023.0,International,Alberta,Institution,2017,2018
+"Olds College, Alberta",Olds College,Olds College,2017/2018,42.0,International,Alberta,Institution,2017,2018
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2017/2018,138.0,International,Alberta,Institution,2017,2018
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2017/2018,51.0,International,Alberta,Institution,2017,2018
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2017/2018,231.0,International,Alberta,Institution,2017,2018
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2017/2018,252.0,International,Alberta,Institution,2017,2018
+"Keyano College, Alberta",Keyano College,Keyano College,2017/2018,93.0,International,Alberta,Institution,2017,2018
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2017/2018,87.0,International,Alberta,Institution,2017,2018
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2017/2018,1338.0,International,Alberta,Institution,2017,2018
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2017/2018,1245.0,International,Alberta,Institution,2017,2018
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2017/2018,477.0,International,Alberta,Institution,2017,2018
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2017/2018,3.0,International,Alberta,Institution,2017,2018
+"Portage College, Alberta",Portage College,Portage College,2017/2018,9.0,International,Alberta,Institution,2017,2018
+Alberta 11,Alberta,Alberta,2018/2019,21663.0,International,Alberta,Province Total,2018,2019
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2018/2019,7716.0,International,Alberta,Institution,2018,2019
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2018/2019,537.0,International,Alberta,Institution,2018,2019
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2018/2019,4203.0,International,Alberta,Institution,2018,2019
+"Burman University, Alberta",Burman University,Burman University,2018/2019,84.0,International,Alberta,Institution,2018,2019
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2018/2019,255.0,International,Alberta,Institution,2018,2019
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2018/2019,480.0,International,Alberta,Institution,2018,2019
+"The King's University, Alberta",The King's University,The King's University,2018/2019,63.0,International,Alberta,Institution,2018,2019
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2018/2019,12.0,International,Alberta,Institution,2018,2019
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2018/2019,30.0,International,Alberta,Institution,2018,2019
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2018/2019,912.0,International,Alberta,Institution,2018,2019
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2018/2019,357.0,International,Alberta,Institution,2018,2019
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2018/2019,87.0,International,Alberta,Institution,2018,2019
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2018/2019,1575.0,International,Alberta,Institution,2018,2019
+"Olds College, Alberta",Olds College,Olds College,2018/2019,114.0,International,Alberta,Institution,2018,2019
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2018/2019,264.0,International,Alberta,Institution,2018,2019
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2018/2019,90.0,International,Alberta,Institution,2018,2019
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2018/2019,444.0,International,Alberta,Institution,2018,2019
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2018/2019,291.0,International,Alberta,Institution,2018,2019
+"Keyano College, Alberta",Keyano College,Keyano College,2018/2019,69.0,International,Alberta,Institution,2018,2019
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2018/2019,117.0,International,Alberta,Institution,2018,2019
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2018/2019,1416.0,International,Alberta,Institution,2018,2019
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2018/2019,1596.0,International,Alberta,Institution,2018,2019
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2018/2019,942.0,International,Alberta,Institution,2018,2019
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2018/2019,0.0,International,Alberta,Institution,2018,2019
+"Portage College, Alberta",Portage College,Portage College,2018/2019,6.0,International,Alberta,Institution,2018,2019
+Alberta 11,Alberta,Alberta,2019/2020,24636.0,International,Alberta,Province Total,2019,2020
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2019/2020,8205.0,International,Alberta,Institution,2019,2020
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2019/2020,651.0,International,Alberta,Institution,2019,2020
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2019/2020,4860.0,International,Alberta,Institution,2019,2020
+"Burman University, Alberta",Burman University,Burman University,2019/2020,93.0,International,Alberta,Institution,2019,2020
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2019/2020,453.0,International,Alberta,Institution,2019,2020
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2019/2020,561.0,International,Alberta,Institution,2019,2020
+"The King's University, Alberta",The King's University,The King's University,2019/2020,87.0,International,Alberta,Institution,2019,2020
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2019/2020,15.0,International,Alberta,Institution,2019,2020
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2019/2020,9.0,International,Alberta,Institution,2019,2020
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2019/2020,690.0,International,Alberta,Institution,2019,2020
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2019/2020,348.0,International,Alberta,Institution,2019,2020
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2019/2020,90.0,International,Alberta,Institution,2019,2020
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2019/2020,1803.0,International,Alberta,Institution,2019,2020
+"Olds College, Alberta",Olds College,Olds College,2019/2020,123.0,International,Alberta,Institution,2019,2020
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2019/2020,255.0,International,Alberta,Institution,2019,2020
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2019/2020,186.0,International,Alberta,Institution,2019,2020
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2019/2020,615.0,International,Alberta,Institution,2019,2020
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2019/2020,303.0,International,Alberta,Institution,2019,2020
+"Keyano College, Alberta",Keyano College,Keyano College,2019/2020,96.0,International,Alberta,Institution,2019,2020
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2019/2020,168.0,International,Alberta,Institution,2019,2020
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2019/2020,1743.0,International,Alberta,Institution,2019,2020
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2019/2020,2031.0,International,Alberta,Institution,2019,2020
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2019/2020,1245.0,International,Alberta,Institution,2019,2020
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2019/2020,3.0,International,Alberta,Institution,2019,2020
+"Portage College, Alberta",Portage College,Portage College,2019/2020,6.0,International,Alberta,Institution,2019,2020
+Alberta 11,Alberta,Alberta,2020/2021,23667.0,International,Alberta,Province Total,2020,2021
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2020/2021,7938.0,International,Alberta,Institution,2020,2021
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2020/2021,630.0,International,Alberta,Institution,2020,2021
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2020/2021,5031.0,International,Alberta,Institution,2020,2021
+"Burman University, Alberta",Burman University,Burman University,2020/2021,90.0,International,Alberta,Institution,2020,2021
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2020/2021,546.0,International,Alberta,Institution,2020,2021
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2020/2021,510.0,International,Alberta,Institution,2020,2021
+"The King's University, Alberta",The King's University,The King's University,2020/2021,84.0,International,Alberta,Institution,2020,2021
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2020/2021,12.0,International,Alberta,Institution,2020,2021
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2020/2021,30.0,International,Alberta,Institution,2020,2021
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2020/2021,486.0,International,Alberta,Institution,2020,2021
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2020/2021,342.0,International,Alberta,Institution,2020,2021
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2020/2021,87.0,International,Alberta,Institution,2020,2021
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2020/2021,1551.0,International,Alberta,Institution,2020,2021
+"Olds College, Alberta",Olds College,Olds College,2020/2021,87.0,International,Alberta,Institution,2020,2021
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2020/2021,174.0,International,Alberta,Institution,2020,2021
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2020/2021,147.0,International,Alberta,Institution,2020,2021
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2020/2021,501.0,International,Alberta,Institution,2020,2021
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2020/2021,207.0,International,Alberta,Institution,2020,2021
+"Keyano College, Alberta",Keyano College,Keyano College,2020/2021,93.0,International,Alberta,Institution,2020,2021
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2020/2021,183.0,International,Alberta,Institution,2020,2021
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2020/2021,1827.0,International,Alberta,Institution,2020,2021
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2020/2021,1917.0,International,Alberta,Institution,2020,2021
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2020/2021,1182.0,International,Alberta,Institution,2020,2021
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2020/2021,9.0,International,Alberta,Institution,2020,2021
+"Portage College, Alberta",Portage College,Portage College,2020/2021,0.0,International,Alberta,Institution,2020,2021
+Alberta 11,Alberta,Alberta,2021/2022,25311.0,International,Alberta,Province Total,2021,2022
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2021/2022,8214.0,International,Alberta,Institution,2021,2022
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2021/2022,456.0,International,Alberta,Institution,2021,2022
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2021/2022,6168.0,International,Alberta,Institution,2021,2022
+"Burman University, Alberta",Burman University,Burman University,2021/2022,69.0,International,Alberta,Institution,2021,2022
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2021/2022,444.0,International,Alberta,Institution,2021,2022
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2021/2022,618.0,International,Alberta,Institution,2021,2022
+"The King's University, Alberta",The King's University,The King's University,2021/2022,78.0,International,Alberta,Institution,2021,2022
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2021/2022,15.0,International,Alberta,Institution,2021,2022
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2021/2022,15.0,International,Alberta,Institution,2021,2022
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2021/2022,525.0,International,Alberta,Institution,2021,2022
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2021/2022,354.0,International,Alberta,Institution,2021,2022
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2021/2022,78.0,International,Alberta,Institution,2021,2022
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2021/2022,1545.0,International,Alberta,Institution,2021,2022
+"Olds College, Alberta",Olds College,Olds College,2021/2022,87.0,International,Alberta,Institution,2021,2022
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2021/2022,132.0,International,Alberta,Institution,2021,2022
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2021/2022,99.0,International,Alberta,Institution,2021,2022
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2021/2022,432.0,International,Alberta,Institution,2021,2022
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2021/2022,186.0,International,Alberta,Institution,2021,2022
+"Keyano College, Alberta",Keyano College,Keyano College,2021/2022,135.0,International,Alberta,Institution,2021,2022
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2021/2022,261.0,International,Alberta,Institution,2021,2022
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2021/2022,1725.0,International,Alberta,Institution,2021,2022
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2021/2022,2058.0,International,Alberta,Institution,2021,2022
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2021/2022,1569.0,International,Alberta,Institution,2021,2022
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2021/2022,9.0,International,Alberta,Institution,2021,2022
+"Portage College, Alberta",Portage College,Portage College,2021/2022,39.0,International,Alberta,Institution,2021,2022
+Alberta 11,Alberta,Alberta,2022/2023,30018.0,International,Alberta,Province Total,2022,2023
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2022/2023,8466.0,International,Alberta,Institution,2022,2023
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2022/2023,450.0,International,Alberta,Institution,2022,2023
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2022/2023,6915.0,International,Alberta,Institution,2022,2023
+"Burman University, Alberta",Burman University,Burman University,2022/2023,60.0,International,Alberta,Institution,2022,2023
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2022/2023,453.0,International,Alberta,Institution,2022,2023
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2022/2023,831.0,International,Alberta,Institution,2022,2023
+"The King's University, Alberta",The King's University,The King's University,2022/2023,84.0,International,Alberta,Institution,2022,2023
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2022/2023,12.0,International,Alberta,Institution,2022,2023
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2022/2023,27.0,International,Alberta,Institution,2022,2023
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2022/2023,570.0,International,Alberta,Institution,2022,2023
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2022/2023,438.0,International,Alberta,Institution,2022,2023
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2022/2023,102.0,International,Alberta,Institution,2022,2023
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2022/2023,2073.0,International,Alberta,Institution,2022,2023
+"Olds College, Alberta",Olds College,Olds College,2022/2023,111.0,International,Alberta,Institution,2022,2023
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2022/2023,141.0,International,Alberta,Institution,2022,2023
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2022/2023,135.0,International,Alberta,Institution,2022,2023
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2022/2023,645.0,International,Alberta,Institution,2022,2023
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2022/2023,261.0,International,Alberta,Institution,2022,2023
+"Keyano College, Alberta",Keyano College,Keyano College,2022/2023,294.0,International,Alberta,Institution,2022,2023
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2022/2023,489.0,International,Alberta,Institution,2022,2023
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2022/2023,2037.0,International,Alberta,Institution,2022,2023
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2022/2023,3123.0,International,Alberta,Institution,2022,2023
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2022/2023,2106.0,International,Alberta,Institution,2022,2023
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2022/2023,9.0,International,Alberta,Institution,2022,2023
+"Portage College, Alberta",Portage College,Portage College,2022/2023,189.0,International,Alberta,Institution,2022,2023
+Alberta 11,Alberta,Alberta,2023/2024,37416.0,International,Alberta,Province Total,2023,2024
+"University of Alberta, Alberta",University of Alberta,University of Alberta,2023/2024,8331.0,International,Alberta,Institution,2023,2024
+"Athabasca University, Alberta",Athabasca University,Athabasca University,2023/2024,516.0,International,Alberta,Institution,2023,2024
+"University of Calgary, Alberta",University of Calgary,University of Calgary,2023/2024,7113.0,International,Alberta,Institution,2023,2024
+"Burman University, Alberta",Burman University,Burman University,2023/2024,72.0,International,Alberta,Institution,2023,2024
+"Concordia University of Edmonton, Alberta",Concordia University of Edmonton,Concordia University of Edmonton,2023/2024,495.0,International,Alberta,Institution,2023,2024
+"University of Lethbridge, Alberta",University of Lethbridge,University of Lethbridge,2023/2024,1332.0,International,Alberta,Institution,2023,2024
+"The King's University, Alberta",The King's University,The King's University,2023/2024,96.0,International,Alberta,Institution,2023,2024
+"St. Mary's University, Alberta",St. Mary's University,St. Mary's University,2023/2024,6.0,International,Alberta,Institution,2023,2024
+"Ambrose University, Alberta",Ambrose University,Ambrose University,2023/2024,39.0,International,Alberta,Institution,2023,2024
+"Grant MacEwan University, Alberta",Grant MacEwan University,Grant MacEwan University,2023/2024,762.0,International,Alberta,Institution,2023,2024
+"Mount Royal University, Alberta",Mount Royal University,Mount Royal University,2023/2024,540.0,International,Alberta,Institution,2023,2024
+"Alberta University of the Arts, Alberta 11",Alberta University of the Arts,Alberta University of the Arts,2023/2024,99.0,International,Alberta,Institution,2023,2024
+"Bow Valley College, Alberta",Bow Valley College,Bow Valley College,2023/2024,2679.0,International,Alberta,Institution,2023,2024
+"Olds College, Alberta",Olds College,Olds College,2023/2024,426.0,International,Alberta,Institution,2023,2024
+"Lakeland College, Alberta",Lakeland College,Lakeland College,2023/2024,204.0,International,Alberta,Institution,2023,2024
+"Northwestern Polytechnic, Alberta",Northwestern Polytechnic,Northwestern Polytechnic,2023/2024,300.0,International,Alberta,Institution,2023,2024
+"Lethbridge College, Alberta",Lethbridge College,Lethbridge College,2023/2024,1131.0,International,Alberta,Institution,2023,2024
+"Medicine Hat College, Alberta",Medicine Hat College,Medicine Hat College,2023/2024,357.0,International,Alberta,Institution,2023,2024
+"Keyano College, Alberta",Keyano College,Keyano College,2023/2024,756.0,International,Alberta,Institution,2023,2024
+"Red Deer Polytechnic, Alberta",Red Deer Polytechnic,Red Deer Polytechnic,2023/2024,780.0,International,Alberta,Institution,2023,2024
+"Northern Alberta Institute of Technology, Alberta",Northern Alberta Institute of Technology,Northern Alberta Institute of Technology,2023/2024,2460.0,International,Alberta,Institution,2023,2024
+"Southern Alberta Institute of Technology, Alberta",Southern Alberta Institute of Technology,Southern Alberta Institute of Technology,2023/2024,5169.0,International,Alberta,Institution,2023,2024
+"NorQuest College, Alberta",NorQuest College,NorQuest College,2023/2024,3645.0,International,Alberta,Institution,2023,2024
+"Northern Lakes College, Alberta",Northern Lakes College,Northern Lakes College,2023/2024,18.0,International,Alberta,Institution,2023,2024
+"Portage College, Alberta",Portage College,Portage College,2023/2024,93.0,International,Alberta,Institution,2023,2024
