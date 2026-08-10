@@ -83,3 +83,74 @@ The prospective age-18 population indicator strengthens into the early 2030s bef
 National international postsecondary indicators show strong growth through 2023/24 followed by a pronounced slowdown in the subsequent estimated years. Because Alberta's recent enrolment growth has become increasingly associated with international students, changes in international-student conditions could create greater near-term enrolment uncertainty.
 
 > **Note:** National figures for 2024/25 and 2025/26 are estimates rather than observed values.
+
+## Data Sources
+
+This project combines publicly available postsecondary and demographic data with derived analytical datasets created in Python.
+
+### Alberta Postsecondary Enrolment
+Historical Alberta postsecondary enrolment data was used to analyze:
+- Total enrolment
+- Canadian and international enrolment
+- Institution-level enrolment
+- International student share
+- Year-over-year and long-term enrolment change
+
+**Source:** Government of Alberta / publicly available postsecondary enrolment data.
+
+### Demographic Context
+Historical birth data for Alberta and Canada was used to construct a demographic pipeline indicator. Birth cohorts were shifted approximately 18 years forward to provide a simple indicator of the population approaching traditional postsecondary-entry age.
+
+**Source:** Statistics Canada population and birth statistics.
+
+### Canadian International Student Context
+National postsecondary international-student information was used to provide broader context for Alberta's international enrolment trends.
+
+Observed historical data and published estimates were separated in the analysis.
+
+- 2019/20–2023/24: Observed
+- 2024/25–2025/26: Estimated
+
+**Sources:** Statistics Canada and publicly available postsecondary-sector publications.
+
+## Methodology
+
+### Data Preparation
+Python was used to clean, standardize, validate, and combine the source datasets before loading the analytical tables into Power BI.
+
+Key preparation steps included:
+- Standardizing academic-year formats
+- Separating institution and provincial-level records
+- Reconciling Canadian and international enrolment totals
+- Checking duplicate and missing records
+- Calculating enrolment shares and changes
+- Creating institution-level growth measures
+- Creating indexed demographic and enrolment measures
+- Separating observed values from estimates
+
+### Demographic Pipeline
+Historical Alberta birth cohorts were shifted forward approximately 18 years to create an indicator of the population approaching traditional postsecondary-entry age.
+
+The resulting series is used as contextual evidence rather than as a formal enrolment forecast.
+
+### Indexed Comparison
+Demographic, Canadian enrolment, and international enrolment series were indexed to a common baseline to compare relative growth despite differences in their absolute values.
+
+### Power BI
+Power BI was used for:
+- Data modelling and table relationships
+- DAX measures and KPI calculations
+- Interactive academic-year filtering
+- Institution-level ranking
+- Trend and composition analysis
+- Data storytelling and dashboard design
+
+## Analytical Limitations
+
+This analysis identifies patterns and associations rather than establishing causation.
+
+The demographic pipeline represents an approximate age-18 population indicator and does not account for participation rates, migration, student mobility, economic conditions, institutional capacity, or individual education decisions.
+
+International-student conditions are influenced by policy, visa issuance, institutional behaviour, labour-market conditions, and other factors outside the scope of this dashboard.
+
+Values identified as estimates should not be interpreted as observed enrolment counts.
